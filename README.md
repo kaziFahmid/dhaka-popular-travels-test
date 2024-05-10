@@ -1,8 +1,27 @@
-# React + Vite
+# How to run this project
+This project is made by vite.To run this project you need to open your terminal in vs code then type command npm install vite.Then write npm run dev then you will be able to open project perfectly.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Project Live Link: https://splendorous-lebkuchen-4d6ca0.netlify.app/
 
-Currently, two official plugins are available:
+Github  Link: https://github.com/kaziFahmid/dhaka-popular-travels-test
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+#Best Practices
+
+1. I have maintained reusable components.
+2. Tried to maintain to write less code.
+3. Added memoization for component.
+4. Enhanced Readability.
+5. Tried to finish project withing 1 hour.
+
+
+
+
+
+
+
+
+
+
+
+
